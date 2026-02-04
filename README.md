@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mi Gestor de Presupuesto en Python 🐍
 
 ¡Hola! Este es mi primer proyecto aprendiendo Python desde cero. 
@@ -12,5 +11,3 @@
 1. Tener Python instalado.
 2. Correr `python app.py` en la terminal. 
 =======
-# Presupuesto-Python
->>>>>>> 280c5bbbc38df39fc7594f0df768fc4677c47f92
